@@ -12,8 +12,8 @@
  :oauth false
 
  ;; Customization
- :css ["demo/css/node/@blocknote/mantine/dist/style.css"
-       "demo/css/node/@blocknote/core/src/fonts/inter.css"]
+ :css ["css/node/@blocknote/mantine/dist/style.css"
+       "css/node/@blocknote/core/src/fonts/inter.css"]
  :js ["js/leader-line.min.js"]
 
 
